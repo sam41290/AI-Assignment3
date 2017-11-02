@@ -1,0 +1,20 @@
+The test set for each question is same.
+Answer for each question is coming to be same
+
+1) L = 6, M = 4
+Answer 6,[0,1,4,6]
+
+2) L = 23, M=7
+Answer -1,[]
+
+3) L = 30, M = 7
+Answer 25, [0, 1, 4, 10, 18, 23, 25]
+
+4) L = 45, M=8
+Answer 34,  [0, 1, 4, 9, 15, 22, 32, 34]
+
+5)L = 44, 9
+Answer 44, [0, 1, 5, 12, 25, 27, 35, 41, 44]
+
+
+
